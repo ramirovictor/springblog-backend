@@ -7,7 +7,7 @@
 
 ####code in English
 
-You can find the frontend application code at - https://github.com/ramirovictor/ng-spring-blog-frontend-master
+You can find the frontend application code at - https://github.com/ramirovictor/ng-spring-blog-frontend
 
 
 ## Technologies and Tools
