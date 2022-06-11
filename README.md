@@ -7,7 +7,7 @@
 
 ####code in English
 
-You can find the frontend application code at - https://github.com/ramirovictor/ng-spring-blog-frontend
+You can find the frontend application code at [frontend](https://github.com/ramirovictor/ng-spring-blog-frontend)
 
 
 ## Technologies and Tools
@@ -20,14 +20,5 @@ You can find the frontend application code at - https://github.com/ramirovictor/
     <td>Maven</td>
     <td>Lombok</td>
     <td>Angular Cli</td>
-  </tr>
-  <tr> 
-    <td>11</td>
-    <td>*</td>
-    <td>*</td>
-    <td>*</td>
-    <td>*</td>
-<td>*</td>
-<td>*</td>
   </tr>
 </table>
